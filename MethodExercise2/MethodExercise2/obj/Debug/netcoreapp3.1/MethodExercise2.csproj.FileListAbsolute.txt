@@ -1,0 +1,14 @@
+C:\Users\baine\Desktop\repos\csharp27\MethodExercise\MethodExercise2\MethodExercise2\bin\Debug\netcoreapp3.1\MethodExercise2.exe
+C:\Users\baine\Desktop\repos\csharp27\MethodExercise\MethodExercise2\MethodExercise2\bin\Debug\netcoreapp3.1\MethodExercise2.deps.json
+C:\Users\baine\Desktop\repos\csharp27\MethodExercise\MethodExercise2\MethodExercise2\bin\Debug\netcoreapp3.1\MethodExercise2.runtimeconfig.json
+C:\Users\baine\Desktop\repos\csharp27\MethodExercise\MethodExercise2\MethodExercise2\bin\Debug\netcoreapp3.1\MethodExercise2.runtimeconfig.dev.json
+C:\Users\baine\Desktop\repos\csharp27\MethodExercise\MethodExercise2\MethodExercise2\bin\Debug\netcoreapp3.1\MethodExercise2.dll
+C:\Users\baine\Desktop\repos\csharp27\MethodExercise\MethodExercise2\MethodExercise2\bin\Debug\netcoreapp3.1\MethodExercise2.pdb
+C:\Users\baine\Desktop\repos\csharp27\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\netcoreapp3.1\MethodExercise2.csproj.AssemblyReference.cache
+C:\Users\baine\Desktop\repos\csharp27\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\netcoreapp3.1\MethodExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baine\Desktop\repos\csharp27\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\netcoreapp3.1\MethodExercise2.AssemblyInfoInputs.cache
+C:\Users\baine\Desktop\repos\csharp27\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\netcoreapp3.1\MethodExercise2.AssemblyInfo.cs
+C:\Users\baine\Desktop\repos\csharp27\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\netcoreapp3.1\MethodExercise2.csproj.CoreCompileInputs.cache
+C:\Users\baine\Desktop\repos\csharp27\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\netcoreapp3.1\MethodExercise2.dll
+C:\Users\baine\Desktop\repos\csharp27\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\netcoreapp3.1\MethodExercise2.pdb
+C:\Users\baine\Desktop\repos\csharp27\MethodExercise\MethodExercise2\MethodExercise2\obj\Debug\netcoreapp3.1\MethodExercise2.genruntimeconfig.cache
